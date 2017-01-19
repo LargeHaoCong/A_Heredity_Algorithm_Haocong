@@ -390,4 +390,4 @@ def heredity_algorithm(f,num,interval,precision,pm,pc,n_ger):
 logging.config.fileConfig("d://python//haocong.conf")
 logger = logging.getLogger("haocong_1")
 heredity_algorithm(f,25,[0.1,2],6,0.01,0.25,50)
-#
+###
